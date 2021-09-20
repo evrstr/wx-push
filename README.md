@@ -1,8 +1,9 @@
 # wx-push
 
 个人利用企业微信应用推送消息，实现推送消息服务。
+我的博客：http://yjqz.cc/
 
-# 搭建须知\
+# 搭建须知
 
 填写好 index.php 里的配置
 
@@ -31,5 +32,9 @@ http://127.0.0.1/index.php
 type: 消息类型 textcard/text
 title: 标题
 msg: 消息
+
 eg:
+
 `http://127.0.0.1/index.php?type=textcard&msg=123&title=推送`
+
+![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632149313238S10920-22433795.png)
