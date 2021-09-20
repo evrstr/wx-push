@@ -1,7 +1,7 @@
 # wx-push
 
 个人利用企业微信应用推送消息，实现推送消息服务。
-我的博客：http://yjqz.cc/
+教程：https://yjqz.cc/archives/wx-push.html
 欢迎加入群聊：992779054
 
 # 搭建须知
