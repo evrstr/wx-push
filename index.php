@@ -14,6 +14,9 @@ $data = [
     'agentid' => $agentid,
 ];
 
+//防跨域
+header('Access-Control-Allow-Origin:*');
+
 switch ($_GET['type']) {
     case 'text':
         $data['msgtype'] = $_GET['type'];
