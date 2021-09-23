@@ -35,12 +35,12 @@ http://127.0.0.1/index.php
 type: 消息类型 textcard/text
 title: 标题
 msg: 消息
-detail: 卡片消息详情界面的 html 代码字符串(使用此字段请尽量用 post 请求)
+detail: 卡片消息详情界面的 html 代码字符串(使用此字段请尽量用 post 请求)，这里主要是自定义模板，使详情页面更美观。
 
 eg:
 `http://127.0.0.1/index.php?type=textcard&msg=123&title=推送&detail=<p%20align="center"%20style="color:red;">测试html</p>`
 
-![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632149313238S10920-22433795.png)
+![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632367648725S10923-10411017.png)
 
 # 更新历史
 
