@@ -40,8 +40,6 @@ detail: 卡片消息详情界面的 html 代码字符串(使用此字段请尽�
 eg:
 `http://127.0.0.1/index.php?type=textcard&msg=123&title=推送&detail=<p%20align="center"%20style="color:red;">测试html</p>`
 
-![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632367648725S10923-10411017.png)
-
 # 更新历史
 
 v 1.1.0
@@ -50,3 +48,8 @@ v 1.1.0
 - 可以自定义详情页面
 - 新增 detail 字段（html 字符串），尽量使用 post 方式进行请求，防止使用 get 超出限制长度
 - 支持 post 请求，确保请求头为`Content-type:application/x-www-form-urlencoded;`
+
+# 演示
+
+![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632367648725S10923-10411017.png)
+![](https://cdn.jsdelivr.net/gh/evrstr/img@master/yjqz/1632367711150S10923-10411431.png)
